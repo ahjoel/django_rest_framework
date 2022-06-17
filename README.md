@@ -1,1 +1,2 @@
-# 7192416_APIs_DRF
+# DJANGO REST FRAMEWORK
+Création - Optimisation - JWT - MINI BOUTIQUE
